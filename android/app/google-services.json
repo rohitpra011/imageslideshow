@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249317907310",
+    "project_id": "imageslideshow-6e62a",
+    "storage_bucket": "imageslideshow-6e62a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249317907310:android:00c54543c67764e0f4bf7f",
+        "android_client_info": {
+          "package_name": "com.rohit.imageslideshow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsQHD9Ie4KAazOTRN7kJ6XoJXJxt3B7uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
